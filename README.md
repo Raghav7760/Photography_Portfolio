@@ -13,5 +13,4 @@ SOWMYA        1HK20EC050
       EMIAL:1hk20ec050@hkbk.edu.in
 
 
- ![image](https://github.com/Raghav7760/Photography_Portfolio/assets/93573952/089e3ab3-8e35-4ea0-a5b5-da3d5ed097fe)
-       
+
