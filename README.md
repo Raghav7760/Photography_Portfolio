@@ -24,18 +24,7 @@ http://rococo-fairy-e83c51.netlify.app
 
 1. Clone the repository: `git clone https://github.com/Raghav7760/Photography_Portfolio.git`
 2. Open `index.html` in your preferred browser.
-3. 
-## Contributor:
-RAGHAV SHARMA 1HK20IS078<br>
-      EMIAL:raghav.v998@gmail.com <br>
-UDAYA R       1HK20IS117<br>
-      EMIAL:udayaudayarr@gmail.com<br>
-RACHANA       1HK20IS077<br>
-      EMIAL:1hk20is077@hkbk.edu.in<br>
-PRAKRUTHI     1HK20IS075<br>
-      EMIAL:1hk20is075@hkbk.edu.in<br>
-SOWMYA        1HK20EC050<br>
-      EMIAL:1hk20ec050@hkbk.edu.in<br>
+
 
 
 
